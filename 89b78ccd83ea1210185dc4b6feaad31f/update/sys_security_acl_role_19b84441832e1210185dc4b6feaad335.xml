@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 10:27:47</sys_created_on>
+        <sys_id>19b84441832e1210185dc4b6feaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1471473_wish_los_wish_item.x_1471473_wish_los.user</sys_name>
+        <sys_package display_value="Wish Lost" source="x_1471473_wish_los">89b78ccd83ea1210185dc4b6feaad31f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish Lost">89b78ccd83ea1210185dc4b6feaad31f</sys_scope>
+        <sys_security_acl display_value="x_1471473_wish_los_wish_item">95b808c983aa1210185dc4b6feaad3e4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_19b84441832e1210185dc4b6feaad335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 10:27:47</sys_updated_on>
+        <sys_user_role display_value="x_1471473_wish_los.user" name="x_1471473_wish_los.user">93c7084d83ea1210185dc4b6feaad3fe</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
